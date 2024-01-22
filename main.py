@@ -91,7 +91,7 @@ def main():
         if choice == "1":
             success, username = login(users)
             if success:
-                print(f"Welcome, {username}!","\nLET YOUR CRAVINGS COME TO AN END WITH OUR LARGE VARIETY OF FRUITS\n")
+                print(f"Welcome, {username}!")
                 user = User(username, users[username])
                 break
             else:
