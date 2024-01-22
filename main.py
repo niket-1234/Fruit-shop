@@ -2,8 +2,10 @@ print("WELCOME TO GARDEN GROVE BAZAAR")
 
 print("\n")
 
-print("CRAVINGS FOR SOME AMAZING FRUITS?..")
-print("YOU ARE AT THE RIGHT SPOT!")
+print("CRAVINGS FOR SOME AMAZING FRUITS?")
+print("THEN YOU'RE AT THE RIGHT SPOT!")
+print("\n")
+
 import sys
 class User:
     def __init__(self, username, password):
