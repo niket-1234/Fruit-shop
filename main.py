@@ -2,8 +2,8 @@ print("WELCOME TO GARDEN GROVE BAZAAR")
 
 print("\n")
 
-
-
+print("CRAVINGS FOR SOME AMAZING FRUITS?..")
+print("YOU ARE AT THE RIGHT SPOT!")
 import sys
 class User:
     def __init__(self, username, password):
